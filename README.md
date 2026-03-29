@@ -1,5 +1,7 @@
 # Latency - Code Examples
 
+<img src=".github/assets/hero.jpg" alt="Latency book cover" width="400">
+
 This repository contains code examples and practical implementations from the book **"Latency"** by Pekka Enberg, published by Manning Publications.
 
 ## About the Book
