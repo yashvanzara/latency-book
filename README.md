@@ -27,6 +27,7 @@ This repository contains the official code examples from the book. If you find i
 ## Additional Resources
 
 - [Book on Manning's website](https://www.manning.com/books/latency)
+- [Book on Amazon](https://amzn.to/4nKI3Un)
 
 ## License
 
